@@ -25,6 +25,8 @@ const rows = [
   createData("Labiba Ibnat", "Next.js", "labiba.ssp@gmail.com", "01712097201"),
   createData("Somrat", "Angular", "somrat.excel@gmail.com", "01712087304"),
   createData("Aquib", "React", "aquib@gmail.com", "01712069286"),
+  createData("Somrat", "Angular", "somrat.excel@gmail.com", "01712087304"),
+  createData("Aquib", "React", "aquib@gmail.com", "01712069286"),
 ];
 
 export default function BasicTable() {
